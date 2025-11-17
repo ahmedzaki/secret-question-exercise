@@ -1,0 +1,4 @@
+org.example.authenticator.SecretQuestionRegistrationFactory
+org.example.authenticator.SecretQuestionAuthenticatorFactory
+org.example.authenticator.TwoFactorChoiceAuthenticatorFactory
+org.example.authenticator.condition.ChosenMethodConditionFactory
